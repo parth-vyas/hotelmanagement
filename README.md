@@ -1,0 +1,1 @@
+This project is for content management system for hotel management and hotel website.
